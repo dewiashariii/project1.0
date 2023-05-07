@@ -7,7 +7,7 @@ class RowWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Belajar Flutter"),
+        title: const Text("Widget Row"),
       ),
       body: Row(
         children: const [
